@@ -1,0 +1,28 @@
+name: FUELD.
+favicon: null
+layout_spectrum: 0.1104047151748091
+typography_spectrum: 0.3241216216702014
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5282397149130702
+  lightness: 0.4144972749054432
+  saturation: 0.11841145111247897
+  rhythmicContrast: 0.7886734565254301
+purpose: []
