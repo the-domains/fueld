@@ -4,8 +4,15 @@
         <description><![CDATA[Food for fitness]]></description>
         <link>http://www.fueld.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 09:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 09:28:24 GMT</lastBuildDate>
         <atom:link href="http://www.fueld.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Health food store</p>]]></description>
+            <link>http://www.fueld.co.uk/health-food-store/index.html</link>
+            <guid isPermaLink="false">ecedb205-443a-4ba8-956c-6cea61c0c155</guid>
+            <pubDate>Sat, 23 Jul 2016 09:28:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About us]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eb199ee-cd72-421e-a72b-56aa41a8bfa0.png">]]></description>
