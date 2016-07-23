@@ -4,7 +4,7 @@
         <description><![CDATA[Food for fitness]]></description>
         <link>http://www.fueld.co.uk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 09:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2016 09:28:26 GMT</lastBuildDate>
         <atom:link href="http://www.fueld.co.uk/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -22,10 +22,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Feuld</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/db531f5f-cdda-4178-a689-658d491e0c8b.png">]]></description>
             <link>http://www.fueld.co.uk/feuld/index.html</link>
             <guid isPermaLink="false">ca327f53-74cc-4edf-b949-089b2ec36cf2</guid>
-            <pubDate>Wed, 27 Apr 2016 16:30:58 GMT</pubDate>
+            <pubDate>Sat, 23 Jul 2016 09:27:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
